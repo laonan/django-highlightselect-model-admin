@@ -1,7 +1,11 @@
 # django-highlightselect-model-admin
 
 ## Description
-A Django App that highlights selected rows on the admin UI.
+A Django App that highlights selected rows after executing custom action on the admin UI.
+
+Django admin actions allow you to hook up your custom actions. But after you select the rows and execute your own action, the selected states of rows will be reset.
+
+This app can help keeping the selected states of the rows.
 
 ### Usage
 
