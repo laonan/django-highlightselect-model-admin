@@ -5,6 +5,10 @@ A Django App that highlights selected rows on the admin UI.
 
 ### Usage
 
+#### Installation
+   
+    pip install django-highlightselect-model-admin
+
 #### in settings.py
 
     INSTALLED_APPS = [
