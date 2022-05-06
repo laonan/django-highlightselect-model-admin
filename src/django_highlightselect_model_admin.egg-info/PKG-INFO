@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: django-highlightselect-model-admin
+Version: 1.0.0
+Summary: A Django App that highlights selected rows on the admin UI.
+Home-page: https://github.com/laonan/django-highlightselect-model-admin
+Author: Laonan
+Author-email: hello@laonan.net
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/laonan/django-highlightselect-model-admin/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 # django-highlightselect-model-admin
 
 ## Description
@@ -39,3 +56,5 @@ A Django App that highlights selected rows on the admin UI.
 
 ### Issues
 https://github.com/laonan/django-highlightselect-model-admin/issues
+
+

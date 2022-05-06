@@ -1,0 +1,12 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+src/django_highlightselect_model_admin.egg-info/PKG-INFO
+src/django_highlightselect_model_admin.egg-info/SOURCES.txt
+src/django_highlightselect_model_admin.egg-info/dependency_links.txt
+src/django_highlightselect_model_admin.egg-info/requires.txt
+src/django_highlightselect_model_admin.egg-info/top_level.txt
+src/django_highlightselect_model_admin.egg-info/zip-safe
+src/highlightselect_model_admin/__init__.py
+src/highlightselect_model_admin/static/highlightselect_model_admin/js/highlight_selected_rows.js
